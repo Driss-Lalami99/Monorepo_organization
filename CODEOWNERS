@@ -1,0 +1,8 @@
+# CODEOWNERS file - defines code ownership for protected paths
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Protect team_air folder
+team_air/ @Driss-Lalami99
+
+# Protect team_hospitality folder  
+team_hospitality/ @Driss-Lalami
